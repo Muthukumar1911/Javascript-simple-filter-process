@@ -122,37 +122,3 @@
 .shadow.show{
   display: block;
 }
-
-/*@media (max-width: 1000px) {
-  .gallery .image{
-    width: calc(100% / 3);
-  }
-}
-@media (max-width: 800px) {
-  .gallery .image{
-    width: calc(100% / 2);
-  }
-}
-@media (max-width: 700px) {
-  .wrapper nav .items{
-    max-width: 600px;
-  }
-  nav .items span{
-    padding: 7px 15px;
-  }
-}
-@media (max-width: 600px) {
-  .wrapper{
-    margin: 30px auto;
-  }
-  .wrapper nav .items{
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-  nav .items span{
-    margin: 5px;
-  }
-  .gallery .image{
-    width: 100%;
-  }
-}
